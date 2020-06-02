@@ -2,7 +2,7 @@ def my_hash
   my_hash = {"name" => "Rachel", "age" => 26}
 end
   my_hash["name"]
-end
+
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
