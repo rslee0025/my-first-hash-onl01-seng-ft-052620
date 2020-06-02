@@ -36,7 +36,6 @@ shipping_manifest["muskets"] = 2
 shipping_manifest["gun powder"] = 4
 
   # return the shipping_manifest hash below
-  shipping_manifest["muskets"]
-  shipping_manifest["gun powder"]
+  shipping_manifest[]
 
 end
